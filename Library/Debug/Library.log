@@ -1,0 +1,46 @@
+﻿  Book.cpp
+  Checker.cpp
+C:\Users\Admin\Desktop\Library\Library\Checker.cpp(5,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Checker.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Checker.cpp(29,20): warning C4018: '<': signed/unsigned mismatch
+  Commands.cpp
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(227,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(275,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(285,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(295,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(323,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(359,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(361,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(371,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(373,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(383,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(385,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(395,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(397,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(410,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(412,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(422,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(424,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(434,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(436,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(446,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(448,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(485,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(636,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(659,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(668,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Vector.h(41,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Vector.h(37): message : while compiling class template member function 'void Vector<User>::copy(const Vector<User> &)'
+C:\Users\Admin\Desktop\Library\Library\Vector.h(87): message : see reference to function template instantiation 'void Vector<User>::copy(const Vector<User> &)' being compiled
+C:\Users\Admin\Desktop\Library\Library\Vector.h(69): message : while compiling class template member function 'Vector<User>::Vector(void)'
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(36): message : see reference to function template instantiation 'Vector<User>::Vector(void)' being compiled
+C:\Users\Admin\Desktop\Library\Library\Commands.h(17): message : see reference to class template instantiation 'Vector<User>' being compiled
+C:\Users\Admin\Desktop\Library\Library\Vector.h(58,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Library\Library\Vector.h(55): message : while compiling class template member function 'void Vector<User>::resize(void)'
+C:\Users\Admin\Desktop\Library\Library\Vector.h(103): message : see reference to function template instantiation 'void Vector<User>::resize(void)' being compiled
+  main.cpp
+C:\Users\Admin\Desktop\Library\Library\main.cpp(109,7): warning C4930: 'Book b1(void)': prototyped function not called (was a variable definition intended?)
+  Generating Code...
+C:\Users\Admin\Desktop\Library\Library\main.cpp(66): warning C4715: 'Start': not all control paths return a value
+C:\Users\Admin\Desktop\Library\Library\Commands.cpp(505): warning C4172: returning address of local variable or temporary: result
+  Library.vcxproj -> C:\Users\Admin\Desktop\Library\Debug\Library.exe
